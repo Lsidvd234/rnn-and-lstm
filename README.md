@@ -1,8 +1,8 @@
 # RNN and LSTM from Scratch — Character-level Name Generation
 
-Built this as part of my prep for a research internship. The goal was to really understand how RNNs and LSTMs work under the hood, so I avoided using `nn.RNN` / `nn.LSTM` and implemented everything with raw tensor ops in PyTorch.
+Built this as part of my prep for a research internship. The goal was to really understand how RNNs and LSTMs work under the hood.
 
-The task is simple: train a model on a list of names, and have it generate new name-like strings character by character.
+The task was simple: train a model on a list of names, and have it generate new name-like strings character by character.
 
 ---
 
